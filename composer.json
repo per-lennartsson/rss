@@ -1,0 +1,20 @@
+{
+    "name": "emmtho/rss",
+    "type": "library",
+    "description": "PHP class to us a RSS flow",
+    "keywords": ["module"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Emma Thoren",
+            "email": "jag_lyser@hotmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": { "Phpmvc\\": "src/" }
+    }
+}
